@@ -1,1 +1,2 @@
+learning_module
 pyaedt_module
